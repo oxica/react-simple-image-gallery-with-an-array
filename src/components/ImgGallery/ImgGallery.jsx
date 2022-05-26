@@ -14,7 +14,6 @@ class ImgGallery extends Component {
                 src={imgSrc}
                 alt="images1"
                 height="250"
-                width="250"
                 style={{ border: 'solid' }}
               />
             ))}
