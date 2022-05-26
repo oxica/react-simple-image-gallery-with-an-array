@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-simple-image-gallery-with-an-array/static/css/main.7acaea2f.css",
+    "main.js": "/react-simple-image-gallery-with-an-array/static/js/main.0613e3c8.js",
+    "index.html": "/react-simple-image-gallery-with-an-array/index.html",
+    "main.7acaea2f.css.map": "/react-simple-image-gallery-with-an-array/static/css/main.7acaea2f.css.map",
+    "main.0613e3c8.js.map": "/react-simple-image-gallery-with-an-array/static/js/main.0613e3c8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.0613e3c8.js"
+  ]
+}
